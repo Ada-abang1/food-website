@@ -634,12 +634,13 @@ line-height: 1.25;
  
 
 }
-@media (max-width: 450px) {
+@media (max-width: 340px) {
   html {
-    font-size: 65%;
+    font-size: 45%;
   }
+ 
   .order form{
-    width: 35rem;
+    width: 43rem;
   }
   .dishes .box-container .box img{
     height: auto;
